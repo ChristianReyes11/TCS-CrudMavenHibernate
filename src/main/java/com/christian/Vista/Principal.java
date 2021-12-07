@@ -7,7 +7,7 @@ package com.christian.Vista;
 
 
 import javax.swing.JFrame;
-
+import com.christian.Controlador.FactoryGUI;
 
 public class Principal extends javax.swing.JFrame {
 

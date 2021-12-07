@@ -13,10 +13,7 @@ import java.sql.Statement;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author pedro
- */
+
 public class ConexionDB {
      private static ConexionDB cx=null;//singleton
     public static ConexionDB getInstance(){

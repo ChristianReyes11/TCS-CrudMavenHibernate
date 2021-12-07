@@ -8,12 +8,6 @@ package com.christian.Dao;
 import java.sql.ResultSet;
 import java.util.List;
 
-
-
-/**
- *
- * @author pedro
- */
 public interface  DaoGeneral<T> {
     public   boolean  guardar(T obj);
     public   boolean  modificar(T obj);

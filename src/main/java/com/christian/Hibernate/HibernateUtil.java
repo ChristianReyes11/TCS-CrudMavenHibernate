@@ -8,12 +8,7 @@ package com.christian.Hibernate;
 import org.hibernate.cfg.AnnotationConfiguration;
 import org.hibernate.SessionFactory;
 
-/**
- * Hibernate Utility class with a convenient method to get Session Factory
- * object.
- *
- * @author FERNANDO-SOPORTE
- */
+
 public class HibernateUtil {
 
     private static final SessionFactory sessionFactory;

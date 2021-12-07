@@ -15,10 +15,7 @@ import java.util.List;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 
-/**
- *
- * @author pedro
- */
+
 public class DAOEmpleado implements DaoGeneral<Empleado> {
 
     @Override

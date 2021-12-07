@@ -18,10 +18,7 @@ import javax.persistence.Table;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author pedro
- */
+
 @Entity
 @Table(name = "departamento")
 @XmlRootElement

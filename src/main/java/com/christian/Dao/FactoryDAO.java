@@ -5,10 +5,7 @@
  */
 package com.christian.Dao;
 
-/**
- *
- * @author pedro
- */
+
 public class FactoryDAO {
      public enum DAOType{EMPLEADO,DEPARTAMENTO};
      public static DaoGeneral create(DAOType type){

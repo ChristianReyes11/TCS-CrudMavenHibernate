@@ -19,10 +19,7 @@ import java.util.logging.Logger;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 
-/**
- *
- * @author pedro
- */
+
 public class DAODepartamento implements DaoGeneral<Departamento> {
 
     
